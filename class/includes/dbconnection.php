@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','studentmsdb');
+define('DB_HOST','sql211.epizy.com');
+define('DB_USER','epiz_32081667');
+define('DB_PASS','lw58YRZ71Jqzh3');
+define('DB_NAME','epiz_32081667_studentmsdb');
 // Establish database connection.
 try
 {
